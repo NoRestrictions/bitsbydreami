@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    width: 85%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.top-nav {
+    height: 5px;
+    width: 85%;
+    background-color: ;
+}
