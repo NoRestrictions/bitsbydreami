@@ -4,13 +4,41 @@
 }
 
 .main {
-    width: 85%;
+    max-width: 100%;
     height: auto;
     margin: 0 auto;
 }
 
 .top-nav {
-    height: 5px;
-    width: 85%;
+    height: 40px;
+    width: 100%;
     background-color: #EE3D96 ;
+    border-bottom: solid 1px #fff;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    /* display: flex; */
 }
+
+#logo-text {
+    /* display: flex; */
+    display: inline-block;
+    margin-left: 40px;
+    margin-top: 5px;
+}
+
+.signup_login {
+    /* display: inline-block; */
+    float: right;
+    margin-right: 120px;
+    margin-top: 10px;
+}
+
+.signup_login a {
+    text-decoration: none;
+}
+
+
+
+
+
+
+
