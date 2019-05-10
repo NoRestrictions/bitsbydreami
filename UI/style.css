@@ -14,7 +14,7 @@
     width: 100%;
     background-color: #EE3D96 ;
     border-bottom: solid 1px #fff;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     /* display: flex; */
 }
 
@@ -23,6 +23,11 @@
     display: inline-block;
     margin-left: 40px;
     margin-top: 5px;
+}
+
+#logo-text a {
+    text-decoration: none;
+    color: #fff;
 }
 
 .signup_login {
@@ -34,6 +39,7 @@
 
 .signup_login a {
     text-decoration: none;
+    color: #fff;
 }
 
 
